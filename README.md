@@ -1,3 +1,9 @@
+<!-- ================= HERO BANNER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Rohit%20Jadhav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hey 👋, I'm Rohit Jadhav</h1>
@@ -8,17 +14,26 @@
 <!-- ================= TYPING ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%2B+Next.js;AI+Tools+Builder;Building+Real+World+Projects;Future+Software+Engineer+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Real+World+Projects;MERN+Stack+%2B+Next.js+Developer;AI+Tools+%26+SaaS+Builder;Focused+on+Top+Tech+Placements;Turning+Ideas+Into+Products+🚀" />
 </p>
+
+<h3 align="center">⚡ Turning coffee ☕ into code & ideas into products 🚀</h3>
 
 ---
 
 <!-- ================= BADGES ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohit94r&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rohit94r&label=Profile%20Views&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/Rohit94r?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Rohit94r?style=social" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Code-MERN-blue" />
+<img src="https://img.shields.io/badge/Focus-AI_SaaS-purple" />
+<img src="https://img.shields.io/badge/Status-Learning-green" />
+<img src="https://img.shields.io/badge/Goal-Top_Company-orange" />
 </p>
 
 ---
@@ -50,12 +65,12 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI SaaS Platform
+### 🤖 AI SaaS Platform (Flagship)
 
-* Built multiple AI tools (Image Generator, Background Remover, Object Remover)
+* AI Tools: Background Remover, Object Remover, Image Generator
 * YouTube & Instagram Downloader
 * PDF tools and automation features
-* Tech: Next.js, Node.js, OpenAI API
+* Built with Next.js, Node.js, OpenAI API
 
 ---
 
@@ -64,7 +79,7 @@
 * Full booking system with user & admin dashboard
 * Manage cars, bookings, and users
 * Authentication & database integration
-* Tech: MERN Stack
+* Built with MERN Stack
 
 ---
 
@@ -72,8 +87,18 @@
 
 * Product listing, cart, and checkout system
 * User authentication & order management
-* REST APIs and scalable backend
-* Tech: MERN Stack
+* Scalable backend APIs
+* Built with MERN Stack
+
+---
+
+<!-- ================= LIVE PROJECTS ================= -->
+
+## 🌍 Live Projects
+
+* 🔗 AI SaaS Platform → Coming Soon
+* 🔗 Car Rental App → Coming Soon
+* 🔗 E-Commerce App → Coming Soon
 
 ---
 
@@ -103,6 +128,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohit94r&theme=tokyonight&no-frame=true" />
+</p>
+
+---
+
 ## 📊 Contribution Graph
 
 <p align="center">
@@ -119,6 +152,16 @@
 * 🤖 I integrate AI into practical SaaS products
 * 💡 I focus on solving problems, not just writing code
 * 📈 Consistent learner with strong execution mindset
+
+---
+
+<!-- ================= FUN ================= -->
+
+## 😄 Fun Zone
+
+* 🎧 Coding with music = productivity x10
+* 🧠 Debugging at 2 AM = real developer moment
+* ☕ Coffee = fuel for my code
 
 ---
 
