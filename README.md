@@ -1,4 +1,4 @@
-🚀 Rohit Jadhav
+[🚀 Rohit Jadhav
 Full Stack Developer | AI Tools Builder | Problem Solver
 Passionate about building scalable, real-world web applications using modern technologies. I focus on writing clean, maintainable code and creating performance-driven full-stack systems that solve practical problems.
 I enjoy turning ideas into working products — from frontend UI to backend architecture and database design.
@@ -46,3 +46,4 @@ To continuously grow as a developer by building impactful technology and masteri
 [![](https://visitcount.itsvg.in/api?id=Rohit94r&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://github.com/Rohit94r/Coughyyee/blob/main/README.md)
