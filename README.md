@@ -94,11 +94,13 @@
 
 <!-- ================= LIVE PROJECTS ================= -->
 
+
 ## 🌍 Live Projects
 
-* 🔗 AI SaaS Platform → Coming Soon
-* 🔗 Car Rental App → Coming Soon
-* 🔗 E-Commerce App → Coming Soon
+* 🔗 [AI SaaS Platform](https://learn-aura-rohit.vercel.app/)
+* 🔗 [Car Rental App](https://car-rental-weld-one.vercel.app/)
+* 🔗 [Apna AI](https://apnaaibyrohit.vercel.app/)
+
 
 ---
 
