@@ -97,9 +97,10 @@
 
 ## 🌍 Live Projects
 
+* 🔗 [Apna AI](https://apnaaibyrohit.vercel.app/)
 * 🔗 [AI SaaS Platform](https://learn-aura-rohit.vercel.app/)
 * 🔗 [Car Rental App](https://car-rental-weld-one.vercel.app/)
-* 🔗 [Apna AI](https://apnaaibyrohit.vercel.app/)
+
 
 
 ---
