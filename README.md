@@ -126,13 +126,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohit94r&theme=tokyonight&no-frame=true" />
-</p>
 
 ---
 
