@@ -1,49 +1,160 @@
-[🚀 Rohit Jadhav
-Full Stack Developer | AI Tools Builder | Problem Solver
-Passionate about building scalable, real-world web applications using modern technologies. I focus on writing clean, maintainable code and creating performance-driven full-stack systems that solve practical problems.
-I enjoy turning ideas into working products — from frontend UI to backend architecture and database design.
-💡 What I Do
-🧠 Build AI-powered web applications (Resume Optimizer, Image Tools, Automation Tools)
-🌐 Develop full-stack applications with authentication, APIs, and database integration
-📱 Design responsive, mobile-first UI/UX experiences
-🔐 Implement secure authentication & role-based systems
-💳 Integrate payment systems & external APIs
-⚙️ Build real-time dashboards and service-based platforms
-🏗️ Tech Stack
-Frontend
-React.js • Next.js • JavaScript • HTML5 • CSS3 • Tailwind CSS
-Backend
-Node.js • Express.js • Supabase • REST APIs • JWT Authentication
-Database
-MongoDB • PostgreSQL • MySQL
-Tools & Platforms
-Git • GitHub • Postman • Vercel • Netlify • Railway
-AI & Integrations
-OpenAI API • Gemini API • Replicate API • Cloudinary • Payment APIs
-📈 Current Focus
-Building production-level SaaS systems
-Improving scalable backend architecture
-Learning DevOps, Docker & Cloud deployment
-Strengthening Data Structures & Problem Solving
-🎯 Goal
-To continuously grow as a developer by building impactful technology and mastering scalable system design.
+<!-- ================= HEADER ================= -->
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.by.rohit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rjdhav67@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohit94r&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohit94r&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hey 👋, I'm Rohit Jadhav</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI SaaS Builder | 💻 MERN + Next.js</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohit94r&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://github.com/Rohit94r/Coughyyee/blob/main/README.md)
+<!-- ================= TYPING ================= -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%2B+Next.js;AI+Tools+Builder;Building+Real+World+Projects;Future+Software+Engineer+🚀" />
+</p>
+
+---
+
+<!-- ================= BADGES ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohit94r&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Rohit94r?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Rohit94r?style=social" />
+</p>
+
+---
+
+<!-- ================= ABOUT ================= -->
+
+## 🧠 About Me
+
+* 🎓 Engineering Student (Mumbai University - ECS)
+* 💻 Full Stack Developer (MERN + Next.js + TypeScript)
+* 🤖 Building AI-powered SaaS tools & automation products
+* 📚 Strong in Java, DSA & modern web development
+* ⚡ Passionate about solving real-world problems
+* 🎯 Goal → Crack top product-based companies & build scalable products
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## ⚔️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,js,java,tailwind,git,github,vscode,postman" />
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+### 🤖 AI SaaS Platform
+
+* Built multiple AI tools (Image Generator, Background Remover, Object Remover)
+* YouTube & Instagram Downloader
+* PDF tools and automation features
+* Tech: Next.js, Node.js, OpenAI API
+
+---
+
+### 🚗 Car Rental Web App
+
+* Full booking system with user & admin dashboard
+* Manage cars, bookings, and users
+* Authentication & database integration
+* Tech: MERN Stack
+
+---
+
+### 🛒 E-Commerce Platform
+
+* Product listing, cart, and checkout system
+* User authentication & order management
+* REST APIs and scalable backend
+* Tech: MERN Stack
+
+---
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit94r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rohit94r&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit94r&theme=tokyo-night" />
+</p>
+
+---
+
+<!-- ================= EDGE ================= -->
+
+## ⚡ What Makes Me Different
+
+* 🚀 I build real-world full-stack applications (not just tutorials)
+* 🤖 I integrate AI into practical SaaS products
+* 💡 I focus on solving problems, not just writing code
+* 📈 Consistent learner with strong execution mindset
+
+---
+
+<!-- ================= GOALS ================= -->
+
+## 🎯 Current Focus
+
+* 🔭 Building AI SaaS platform
+* 🌱 Learning System Design & Advanced Backend
+* 💼 Preparing for product-based company placements
+* 🎥 Growing a tech-focused YouTube channel
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rohit-jadhav">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:rjdhav67@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's Talk-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
+
+<!-- ================= QUOTE ================= -->
+
+## 💬 Developer Mindset
+
+> ⚡ "Code. Build. Ship. Repeat. — That’s the grind."
+
+---
+
+⭐️ Rohit Jadhav | Future Software Engineer 🚀
