@@ -49,7 +49,7 @@
 # ⚔️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,javascript,java,mongodb,postgresql,tailwind,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,javascript,java,go,mongodb,postgresql,tailwind,git,github,postman,vscode"/>
 </p>
 
 ---
@@ -110,9 +110,9 @@ https://github.com/Rohit94r/Ai-Customer-Support
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rohit94r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rohit94r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
@@ -125,26 +125,14 @@ https://github.com/Rohit94r/Ai-Customer-Support
 
 ---
 
-# 📈 Contribution Graph
+# 🌌 What I'm Building
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit94r&theme=tokyo-night&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Graph"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Currently+Shipping%3A+Apply+%2B+NeexMeet+%2B+ApnaAI;%F0%9F%94%A5+7%2B+Hackathon+Wins+%7C+15%2B+Events;%F0%9F%92%BB+Java+%2B+DSA+%2B+Go+%2B+System+Design" />
 </p>
 
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohit94r/Rohit94r/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-# 📈 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rohit94r/Rohit94r/output/profile-season-animate.svg"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:1e3a8a,50:2563eb,100:0ea5e9&section=footer&animation=twinkling" />
 </p>
 
 ---
