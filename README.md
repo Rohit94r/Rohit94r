@@ -17,7 +17,7 @@
 <!-- ================= TYPING ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Real+World+SaaS+Products;6x+National+Hackathon+Winner;Freelancer+%2B+Builder;Building+in+Public+Everyday;Learning+Java+%2B+Advanced+Backend+Engineering🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Real+World+SaaS+Products;6x+National+Hackathon+Winner;Freelancer+%2B+Builder;Building+in+Public+Everyday;Learning+Java+%2B+DSA+%2B+Go;Advanced+Backend+Engineering+🚀" />
 </p>
 
 <p align="center">
@@ -31,6 +31,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohit94r&label=Profile%20Views&color=0ea5e9&style=flat" />
   <img src="https://img.shields.io/github/followers/Rohit94r?style=social" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Building&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohit94r&style=flat" />
 </p>
 
 ---
@@ -40,7 +41,7 @@
 * 🚀 Building real-world SaaS products and scalable full-stack applications
 * 🏆 6x National Level Hackathon Winner
 * 💼 Freelance Full Stack Developer
-* 📚 Learning Java, DSA, System Design & Advanced Backend Engineering
+* 📚 Learning Java, DSA, Go, System Design & Advanced Backend Engineering
 * 🎥 Sharing coding, startup & build-in-public journey
 * ⚡ Focused on solving real-world problems through technology
 
@@ -49,12 +50,25 @@
 # ⚔️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,javascript,java,mongodb,postgresql,tailwind,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,javascript,java,go,mongodb,postgresql,tailwind,git,github,postman,vscode"/>
 </p>
 
 ---
 
 # 🚀 Featured SaaS Products
+
+## 🔹 LayerFlow — AI Workspace for Prompt Management & Cost Control
+
+* Multi-model comparison and prompt management workspace
+* Zero-config cost savings for solo founders and freelancers
+* Built for developers juggling multiple LLM providers
+* Actively shipping — current main focus product
+
+### 🔗 Live Project
+
+https://layerflow.dev
+
+---
 
 ## 🔹 Apply — AI Job Application SaaS
 
@@ -110,9 +124,17 @@ https://github.com/Rohit94r/Ai-Customer-Support
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rohit94r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rohit94r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohit94r&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
 
 ---
@@ -128,12 +150,14 @@ https://github.com/Rohit94r/Ai-Customer-Support
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit94r&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit94r&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/>
 </p>
 
 ---
 
 # 🐍 Contribution Snake
+
+<!-- Requires the snake GitHub Action workflow running on your profile repo (Rohit94r/Rohit94r) to generate this SVG on the "output" branch. If it's not animating, check Actions tab → re-run the "generate snake" workflow. -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rohit94r/Rohit94r/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -151,9 +175,8 @@ https://github.com/Rohit94r/Ai-Customer-Support
 
 # 🎯 Current Focus
 
-* 🚀 Building scalable SaaS products
-* 📚 Learning advanced backend engineering & system design
-* 💻 Solving DSA with Java
+* 🚀 Building LayerFlow toward product-market fit
+* 📚 Learning Java, DSA, Go & advanced backend engineering / system design
 * 🎥 Growing coding & startup content creation journey
 * ⚡ Building in public consistently
 
