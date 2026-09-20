@@ -54,66 +54,25 @@
 
 ---
 
-# 🚀 Featured SaaS Products
+# 🚀 Featured SaaS Product
 
-## 🔹 Apply — AI Job Application SaaS
+## 🔹 LayerFlow — AI Workspace for Prompt Management & Cost Control
 
-* ATS-optimized resume generation
-* Resume customization based on job descriptions
-* AI-powered interview preparation workflows
-* Smart resume improvements using AI
-
-### 🔗 Live Project
-
-https://apply.neexmeet.com
-
-### 🔗 Repository
-
-https://github.com/Rohit94r/Apply-Saas
-
----
-
-## 🔹 NeexMeet — AI Workspace & Collaboration Platform
-
-* AI meeting summaries and transcript workflows
-* Workspace collaboration and room systems
-* Tasks, attendance, chat, and video meetings
-* Built for teams and organizations
+* Multi-model comparison and prompt management in one workspace
+* Zero-config cost savings for solo founders and freelancers
+* Currently my main focus — actively building toward product-market fit
 
 ### 🔗 Live Project
 
-https://neexmeet.com
-
-### 🔗 Repository
-
-https://github.com/Rohit94r/NeexMeet-Saas
+https://layerflow.dev
 
 ---
 
-## 🔹 ApnaAI — AI Customer Support SaaS
+# 📦 Other Products
 
-* AI chatbot integration platform
-* Automated customer support workflows
-* Embeddable chatbot systems for businesses
-* Dashboard and automation management
-
-### 🔗 Live Project
-
-https://apnaai.online
-
-### 🔗 Repository
-
-https://github.com/Rohit94r/Ai-Customer-Support
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rohit94r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
+* **Apply** — AI resume tailor & mock interview platform → [apply.neexmeet.com](https://apply.neexmeet.com)
+* **ApnaAI** — AI customer support SaaS with embeddable chatbots → [apnaai.online](https://apnaai.online)
+* **NeexMeet** — AI workspace & collaboration platform → [neexmeet.com](https://neexmeet.com)
 
 ---
 
@@ -128,7 +87,7 @@ https://github.com/Rohit94r/Ai-Customer-Support
 # 🌌 What I'm Building
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Currently+Shipping%3A+Apply+%2B+NeexMeet+%2B+ApnaAI;%F0%9F%94%A5+7%2B+Hackathon+Wins+%7C+15%2B+Events;%F0%9F%92%BB+Java+%2B+DSA+%2B+Go+%2B+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Currently+Building%3A+LayerFlow;%F0%9F%94%A5+7%2B+Hackathon+Wins+%7C+15%2B+Events;%F0%9F%92%BB+Java+%2B+DSA+%2B+Go+%2B+System+Design" />
 </p>
 
 <p align="center">
@@ -139,7 +98,7 @@ https://github.com/Rohit94r/Ai-Customer-Support
 
 # 🎯 Current Focus
 
-* 🚀 Building scalable SaaS products
+* 🚀 Building LayerFlow toward product-market fit
 * 📚 Learning advanced backend engineering & system design
 * 💻 Solving DSA with Java
 * 🎥 Growing coding & startup content creation journey
